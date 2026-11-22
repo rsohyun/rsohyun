@@ -1,5 +1,5 @@
 <!-- Header: capsule-render 배너 (색/문구는 자유롭게 바꿔도 됨) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B5EA7,100:C9A7EB&height=180&section=header&text=Sohyun%20Ryu&fontSize=48&fontColor=ffffff&desc=Data%20Analyst%20%7C%20AX%20%26%20Automation&descAlignY=72&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B5EA7,100:C9A7EB&height=180&section=header&text=Sohyun%20Ryu&fontSize=48&fontColor=ffffff&desc=Data%20Analyst%20%7C%20AX%20%C2%B7%20Automation&descAlignY=72&descSize=18" width="100%" />
 
 ## 🍇 About Me
 
